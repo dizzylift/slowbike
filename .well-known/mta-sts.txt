@@ -1,0 +1,5 @@
+version: STSv1
+mode: enforce
+max_age: 2419200
+mx: in2-smtp.messagingengine.com
+mx: in1-smtp.messagingengine.com
