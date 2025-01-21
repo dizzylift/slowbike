@@ -1,5 +1,5 @@
 version: STSv1
 mode: none
-mx: in2-smtp.messagingengine.com
-mx: in1-smtp.messagingengine.com
+mx: mx2.zoho.com
+mx: mx3.zoho.com
 max_age: 86400
